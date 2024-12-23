@@ -1,1 +1,2 @@
 # gitname
+name is name
